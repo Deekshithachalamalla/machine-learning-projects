@@ -21,3 +21,5 @@ financial, and repayment history data.
 - Precision
 - Recall
 - F1 Score
+## Dataset
+The dataset used in this project is stored in the main `datasets/` directory of this repository.
